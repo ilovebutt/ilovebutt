@@ -1,7 +1,7 @@
 
 <div align="center">
   <img width="38" height="38" alt="Spirit_webp-ezgif com-resize" src="https://github.com/user-attachments/assets/89cce1e5-46b0-4c61-80e4-f1798aba06cb" />
-  <img src="https://komarev.com/ghpvc/?username=fiendpal&label=yokai+scans!&style=plastic&color=blue" /> 
+  <img src="https://komarev.com/ghpvc/?username=ilovebutt&label=yokai+scans!&style=plastic&color=blue" /> 
   <img width="38" height="38" alt="Spirit_webp-ezgif com-resize" src="https://github.com/user-attachments/assets/89cce1e5-46b0-4c61-80e4-f1798aba06cb" />
   <br><br>
   
